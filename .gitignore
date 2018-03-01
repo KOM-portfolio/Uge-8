@@ -1,7 +1,5 @@
-/AsteroidsEntityFramework/Common/target/
-/AsteroidsEntityFramework/Core/target/
-/AsteroidsEntityFramework/Player/target/
-/AsteroidsEntityFramework/Enemy/target/
-/AsteroidsEntityFramework/Asteroid/target/
-/AsteroidsEntityFramework/Collision/target/
-/AsteroidsEntityFramework/Projectile/target/
+
+/AsteroidsServiceLoader/Common/target/
+/AsteroidsServiceLoader/Core/target/
+/AsteroidsServiceLoader/Player/target/
+/AsteroidsServiceLoader/Enemy/target/
